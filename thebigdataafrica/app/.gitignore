@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+dist/
+
+app.json
+service-account.json
+nikiaisystems-keystore-backup
+
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
